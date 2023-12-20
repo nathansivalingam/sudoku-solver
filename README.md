@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 ## Project Description
-Used a backtracking algorithm to solve a standard sudoku puzzle.
+This python program uses a backtracking algorithm to solve a standard sudoku puzzle.
 
 ## How to Install and Run the Project
 1. Ensure that numpy is installed on your local environment. If not, follow the tutorial accessible via https://www.youtube.com/watch?v=hP06VU0kpbo
