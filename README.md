@@ -9,8 +9,8 @@ This python program uses a backtracking algorithm to solve a standard sudoku puz
 3. Clone the main.py file into your local environment.
 
 ## How to Use the Project
-- An already existing sudoku puzzle is placed at the top of the program. <br />
-- Run the program in the terminal.
+* An already existing sudoku puzzle is placed at the top of the program. <br />
+* Run the program in the terminal.
 
 ## Include Credits
 - Inspired/Adapted: https://www.youtube.com/watch?v=PZJ5mjQyxR8 <br />
